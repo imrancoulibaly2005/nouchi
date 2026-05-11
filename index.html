@@ -20,10 +20,9 @@
           <p class="tagline">Le dictionnaire participatif du nouchi</p>
         </div>
       </div>
-      <a href="https://github.com/imrancoulibaly2005/nouchi/issues/new?template=nouveau-mot.md"
-         target="_blank" class="btn btn-primary">
+      <button class="btn btn-primary" onclick="document.getElementById('formSection').scrollIntoView({behavior:'smooth'})">
         + Proposer un mot
-      </a>
+      </button>
     </div>
   </header>
 
@@ -74,31 +73,70 @@
   </main>
 
   <!-- CONTRIBUER -->
-  <section class="contribute-section">
-    <div class="container contribute-inner">
-      <div class="contribute-text">
-        <h2>Contribue au dictionnaire !</h2>
-        <p>Le Dico Nouchi est un projet communautaire. Tout le monde peut ajouter un mot, corriger une définition ou proposer un meilleur exemple. C'est simple et gratuit.</p>
-        <ul class="contrib-steps">
-          <li><span class="step-num">1</span> Clique sur <strong>"Proposer un mot"</strong></li>
-          <li><span class="step-num">2</span> Remplis le formulaire sur GitHub</li>
-          <li><span class="step-num">3</span> Ton mot sera ajouté après validation</li>
-        </ul>
+  <section class="contribute-section" id="formSection">
+    <div class="container">
+      <div class="contribute-header">
+        <h2>Propose un mot nouchi</h2>
+        <p>Tu connais un mot qui manque ? Remplis le formulaire ci-dessous. Ton mot sera publié après validation.</p>
       </div>
-      <div class="contribute-actions">
-        <a href="https://github.com/imrancoulibaly2005/nouchi/issues/new?template=nouveau-mot.md"
-           target="_blank" class="btn btn-primary btn-lg">
-          ✏️ Proposer un nouveau mot
-        </a>
-        <a href="https://github.com/imrancoulibaly2005/nouchi/issues/new?template=correction.md"
-           target="_blank" class="btn btn-outline btn-lg">
-          🛠️ Signaler une erreur
-        </a>
-        <a href="https://github.com/imrancoulibaly2005/nouchi"
-           target="_blank" class="btn btn-outline btn-lg">
-          ⭐ Voir sur GitHub
-        </a>
-      </div>
+
+      <form class="propose-form" id="proposeForm">
+        <div class="form-row">
+          <div class="form-group form-group--required">
+            <label for="fMot">Mot nouchi *</label>
+            <input type="text" id="fMot" name="mot" placeholder="Ex: gahon" required />
+          </div>
+          <div class="form-group">
+            <label for="fPhonetique">Prononciation</label>
+            <input type="text" id="fPhonetique" name="phonetique" placeholder="Ex: ga-on" />
+          </div>
+        </div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label for="fCategorie">Catégorie</label>
+            <select id="fCategorie" name="categorie">
+              <option value="nom">Nom</option>
+              <option value="verbe">Verbe</option>
+              <option value="adjectif">Adjectif</option>
+              <option value="interjection">Interjection</option>
+              <option value="expression">Expression</option>
+              <option value="nom / verbe">Nom / Verbe</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="fTags">Tags <span class="hint">(séparés par des virgules)</span></label>
+            <input type="text" id="fTags" name="tags" placeholder="Ex: courant, finance" />
+          </div>
+        </div>
+
+        <div class="form-group form-group--required">
+          <label for="fDefinition">Définition en français *</label>
+          <textarea id="fDefinition" name="definition" rows="2" placeholder="Ce que le mot veut dire, clairement." required></textarea>
+        </div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label for="fExemple">Exemple en nouchi</label>
+            <input type="text" id="fExemple" name="exemple" placeholder="Ex: Mo n'a pas de gahon." />
+          </div>
+          <div class="form-group">
+            <label for="fTraduction">Traduction de l'exemple</label>
+            <input type="text" id="fTraduction" name="traduction_exemple" placeholder="Ex: Il n'a pas d'argent." />
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="fContributeur">Ton nom / pseudo</label>
+          <input type="text" id="fContributeur" name="contributeur" placeholder="Anonyme si vide" />
+        </div>
+
+        <div id="formMsg" class="form-msg hidden"></div>
+
+        <button type="submit" class="btn btn-primary btn-lg form-submit" id="submitBtn">
+          Envoyer ma proposition
+        </button>
+      </form>
     </div>
   </section>
 

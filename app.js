@@ -5,7 +5,8 @@ let activeCat = 'all';
 let searchQuery = '';
 
 async function loadDictionary() {
-  const res = await fetch('dictionary.json');
+  const res = await fetch('/api/words');
+  if (!res.ok) throw new Error('Erreur chargement');
   allWords = await res.json();
   allWords.sort((a, b) => a.mot.localeCompare(b.mot, 'fr'));
   buildAlphaFilter();
@@ -145,6 +146,45 @@ function closeModal() {
   document.getElementById('modalOverlay').classList.add('hidden');
 }
 
+// ===== PROPOSE FORM =====
+async function handlePropose(e) {
+  e.preventDefault();
+  const form = e.target;
+  const btn = document.getElementById('submitBtn');
+  const msg = document.getElementById('formMsg');
+
+  btn.disabled = true;
+  btn.textContent = 'Envoi en cours...';
+  msg.className = 'form-msg hidden';
+
+  const data = Object.fromEntries(new FormData(form).entries());
+
+  try {
+    const res = await fetch('/api/propose', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(data),
+    });
+    const json = await res.json();
+    if (res.ok) {
+      msg.className = 'form-msg success';
+      msg.textContent = json.message;
+      form.reset();
+    } else {
+      msg.className = 'form-msg error';
+      msg.textContent = json.error || 'Une erreur est survenue.';
+    }
+  } catch {
+    msg.className = 'form-msg error';
+    msg.textContent = 'Impossible de contacter le serveur.';
+  } finally {
+    btn.disabled = false;
+    btn.textContent = 'Envoyer ma proposition';
+    msg.classList.remove('hidden');
+    msg.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  }
+}
+
 // ===== INIT EVENTS =====
 document.addEventListener('DOMContentLoaded', () => {
   loadDictionary();
@@ -166,6 +206,8 @@ document.addEventListener('DOMContentLoaded', () => {
     searchInput.focus();
     applyFilters();
   });
+
+  document.getElementById('proposeForm').addEventListener('submit', handlePropose);
 
   document.getElementById('modalClose').addEventListener('click', closeModal);
   document.getElementById('modalOverlay').addEventListener('click', e => {

@@ -1,0 +1,16 @@
+{
+  "name": "dico-nouchi",
+  "version": "1.0.0",
+  "description": "Dictionnaire participatif nouchi-français",
+  "private": true,
+  "scripts": {
+    "seed": "node seed.js",
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.4"
+  },
+  "devDependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
