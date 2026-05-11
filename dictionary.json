@@ -1,482 +1,2990 @@
 [
   {
     "id": 1,
-    "mot": "gahon",
-    "francais": "argent",
-    "phonetique": "ga-on",
+    "mot": "agboloh",
+    "francais": "muscles, musclé",
+    "phonetique": null,
     "categorie": "nom",
-    "definition": "Argent, monnaie",
-    "exemple": "Mo n'a pas de gahon aujourd'hui.",
-    "traduction_exemple": "Il n'a pas d'argent aujourd'hui.",
-    "tags": ["finance", "courant"],
+    "definition": "Muscles, musculature, quelqu'un de musclé",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "corps",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 2,
-    "mot": "wari",
-    "francais": "argent",
-    "phonetique": "wa-ri",
+    "mot": "agnon",
+    "francais": "habits, vêtements",
+    "phonetique": null,
     "categorie": "nom",
-    "definition": "Argent (du dioula : wari)",
-    "exemple": "T'as le wari pour on va au maquis ?",
-    "traduction_exemple": "Tu as de l'argent pour qu'on aille au maquis ?",
-    "tags": ["finance", "dioula", "courant"],
+    "definition": "Habits, vêtements, tenue vestimentaire",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "vêtements",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 3,
-    "mot": "dja",
-    "francais": "partir",
-    "phonetique": "dja",
-    "categorie": "verbe",
-    "definition": "Partir, quitter un endroit rapidement",
-    "exemple": "On va dja là-bas avant la nuit.",
-    "traduction_exemple": "On va partir là-bas avant la nuit.",
-    "tags": ["mouvement", "courant"],
+    "mot": "apoutchou",
+    "francais": "femme pulpeuse aux grosses fesses",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Belle jeune femme pulpeuse et callipyge, aux formes généreuses",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "corps",
+      "personnes",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 4,
-    "mot": "mo",
-    "francais": "personne, mec",
-    "phonetique": "mo",
-    "categorie": "nom",
-    "definition": "Personne, gars, mec",
-    "exemple": "C'est quel mo qui t'a dit ça ?",
-    "traduction_exemple": "C'est quelle personne qui t'a dit ça ?",
-    "tags": ["personnes", "courant"],
+    "mot": "badrô",
+    "francais": "boire",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Boire, consommer une boisson",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "boisson",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 5,
-    "mot": "gombo",
-    "francais": "affaire, business",
-    "phonetique": "gom-bo",
-    "categorie": "nom",
-    "definition": "Affaire, business, gain d'argent facile",
-    "exemple": "Il a trouvé un bon gombo au marché.",
-    "traduction_exemple": "Il a trouvé une bonne affaire au marché.",
-    "tags": ["commerce", "courant"],
+    "mot": "chier",
+    "francais": "crier, réprimander",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Crier sur quelqu'un, le réprimander, le gronder",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 6,
-    "mot": "clando",
-    "francais": "taxi clandestin, sortir en douce",
-    "phonetique": "clan-do",
-    "categorie": "nom / verbe",
-    "definition": "Taxi clandestin, moto-taxi non officiel. Faire le clando : sortir en douce, s'éclipser discrètement sans que personne ne le remarque.",
-    "exemple": "Prends le clando, c'est moins cher. / Il a fait le clando avant la fin de la fête.",
-    "traduction_exemple": "Prends le taxi clandestin, c'est moins cher. / Il est sorti en douce avant la fin de la fête.",
-    "tags": ["transport", "courant"],
+    "mot": "banger",
+    "francais": "feu d'artifice",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Feu d'artifice. Éclater les bangers : tirer les feux d'artifice",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "fête",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 7,
-    "mot": "maquis",
-    "francais": "restaurant populaire",
-    "phonetique": "ma-ki",
+    "mot": "barre",
+    "francais": "1 000 FCFA",
+    "phonetique": null,
     "categorie": "nom",
-    "definition": "Restaurant populaire de plein air, souvent avec musique et ambiance",
-    "exemple": "On se retrouve au maquis ce soir.",
-    "traduction_exemple": "On se retrouve au restaurant populaire ce soir.",
-    "tags": ["restauration", "sortie", "courant"],
+    "definition": "Mille (1 000) francs CFA",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "finance",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 8,
-    "mot": "gbê",
-    "francais": "mort, hors-service",
-    "phonetique": "gbɛ",
-    "categorie": "verbe / adjectif",
-    "definition": "Mort, tuer, fatigué à l'extrême, hors-service",
-    "exemple": "Mon téléphone est gbê.",
-    "traduction_exemple": "Mon téléphone est mort / hors service.",
-    "tags": ["état", "courant"],
+    "mot": "bédou",
+    "francais": "portefeuille, porte-monnaie",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Portefeuille, porte-monnaie",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "finance",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 9,
-    "mot": "valeur",
-    "francais": "belle femme",
-    "phonetique": "va-leur",
-    "categorie": "nom",
-    "definition": "Belle femme séduisante, personne de grande qualité",
-    "exemple": "Cette fille là c'est une vraie valeur.",
-    "traduction_exemple": "Cette fille-là est vraiment belle.",
-    "tags": ["compliment", "personnes", "courant"],
+    "mot": "béou",
+    "francais": "fuir, aller",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Fuir, partir rapidement, aller quelque part",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "mouvement",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 10,
-    "mot": "garba",
-    "francais": "attiéké au thon",
-    "phonetique": "gar-ba",
+    "mot": "beko",
+    "francais": "baiser, bisou",
+    "phonetique": null,
     "categorie": "nom",
-    "definition": "Plat populaire composé d'attiéké et de thon grillé, vendu dans la rue",
-    "exemple": "Un garba 300 francs s'il vous plaît.",
-    "traduction_exemple": "Un garba (attiéké + thon) à 300 francs s'il vous plaît.",
-    "tags": ["nourriture", "courant"],
+    "definition": "Un baiser, un bisou",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "amour",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 11,
-    "mot": "attiéké",
-    "francais": "semoule de manioc",
-    "phonetique": "a-tié-ké",
+    "mot": "bengué",
+    "francais": "Europe",
+    "phonetique": null,
     "categorie": "nom",
-    "definition": "Semoule de manioc fermenté, plat de base ivoirien",
-    "exemple": "Je mange l'attiéké poisson tous les jours.",
-    "traduction_exemple": "Je mange de l'attiéké avec du poisson tous les jours.",
-    "tags": ["nourriture", "courant"],
+    "definition": "L'Europe, les pays européens",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "géographie",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 12,
-    "mot": "kpata",
-    "francais": "fille",
-    "phonetique": "kpa-ta",
+    "mot": "bigo",
+    "francais": "œuf, téléphone",
+    "phonetique": null,
     "categorie": "nom",
-    "definition": "Fille, femme (familier)",
-    "exemple": "Les kpata là elles causent trop.",
-    "traduction_exemple": "Ces filles-là parlent trop.",
-    "tags": ["personnes", "familier"],
+    "definition": "Œuf (nourriture) ou téléphone portable selon le contexte",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant",
+      "nourriture"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 13,
-    "mot": "blo",
-    "francais": "problème",
-    "phonetique": "blo",
-    "categorie": "nom / verbe",
-    "definition": "Problème, bloquer, être coincé dans une situation",
-    "exemple": "J'ai un gros blo avec mon chef.",
-    "traduction_exemple": "J'ai un gros problème avec mon chef.",
-    "tags": ["problème", "courant"],
+    "mot": "binguiste",
+    "francais": "quelqu'un qui vient d'Europe",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Personne qui vient d'Europe ou de France, expatrié",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "géographie",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 14,
-    "mot": "miné",
-    "francais": "petite amie, femme",
-    "phonetique": "mi-né",
+    "mot": "bobara-ba",
+    "francais": "postérieur généreux",
+    "phonetique": null,
     "categorie": "nom",
-    "definition": "Femme, petite amie",
-    "exemple": "Sa miné l'a quitté hier.",
-    "traduction_exemple": "Sa petite amie l'a quitté hier.",
-    "tags": ["personnes", "relations", "courant"],
+    "definition": "Postérieur généreux, grosses fesses",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "corps",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 15,
-    "mot": "djeuga",
-    "francais": "jeune",
-    "phonetique": "djeu-ga",
-    "categorie": "nom / adjectif",
-    "definition": "Jeune, jeunesse, personne jeune",
-    "exemple": "Les djeuga du quartier font du bruit.",
-    "traduction_exemple": "Les jeunes du quartier font du bruit.",
-    "tags": ["personnes", "courant"],
+    "mot": "bobara-fitini",
+    "francais": "postérieur fin",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Postérieur fin, petites fesses",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "corps",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 16,
-    "mot": "tchoco",
-    "francais": "cadeau, pot-de-vin",
-    "phonetique": "tcho-co",
-    "categorie": "nom",
-    "definition": "Cadeau, chocolat, pot-de-vin (selon le contexte)",
-    "exemple": "Donne-moi un petit tchoco.",
-    "traduction_exemple": "Donne-moi un petit cadeau.",
-    "tags": ["cadeau", "courant"],
+    "mot": "borlaï",
+    "francais": "ignorant",
+    "phonetique": null,
+    "categorie": "adjectif",
+    "definition": "Ignorant, personne qui ne comprend rien",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 17,
-    "mot": "zouglou",
-    "francais": "musique ivoirienne",
-    "phonetique": "zou-glou",
-    "categorie": "nom",
-    "definition": "Genre musical ivoirien né dans les cités universitaires dans les années 90",
-    "exemple": "Le zouglou c'est la musique des jeunes d'Abidjan.",
-    "traduction_exemple": "Le zouglou est la musique des jeunes d'Abidjan.",
-    "tags": ["musique", "culture"],
+    "mot": "bôrô",
+    "francais": "beaucoup, fan, sac",
+    "phonetique": null,
+    "categorie": "nom / adverbe",
+    "definition": "Beaucoup ; fan, admirateur ; sac selon le contexte",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 18,
-    "mot": "alloco",
-    "francais": "banane plantain frite",
-    "phonetique": "al-lo-co",
+    "mot": "bôtchô",
+    "francais": "fesses",
+    "phonetique": null,
     "categorie": "nom",
-    "definition": "Bananes plantains frites, snack de rue très populaire",
-    "exemple": "On prend les alloco après l'école.",
-    "traduction_exemple": "On prend les bananes plantains frites après l'école.",
-    "tags": ["nourriture", "courant"],
+    "definition": "Fesses, postérieur",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "corps",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 19,
-    "mot": "bèh",
-    "francais": "oh là là !",
-    "phonetique": "bɛ",
-    "categorie": "interjection",
-    "definition": "Expression d'étonnement, de surprise, d'incompréhension ou d'agacement",
-    "exemple": "Bèh ! T'as vu ce qui s'est passé ?",
-    "traduction_exemple": "Oh là là ! Tu as vu ce qui s'est passé ?",
-    "tags": ["interjection", "courant"],
+    "mot": "brobro",
+    "francais": "chercher, travailler dur",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Chercher, travailler dur, se démener",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "travail",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 20,
-    "mot": "dozo",
-    "francais": "chasseur traditionnel",
-    "phonetique": "do-zo",
+    "mot": "brobroli",
+    "francais": "travail, job",
+    "phonetique": null,
     "categorie": "nom",
-    "definition": "Chasseur traditionnel, homme très courageux ou redoutable",
-    "exemple": "Ce gardien là c'est un vrai dozo.",
-    "traduction_exemple": "Ce gardien-là est vraiment redoutable.",
-    "tags": ["personnes", "culture"],
+    "definition": "Travail, job, boulot",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "travail",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 21,
-    "mot": "sacrée",
-    "francais": "excellent",
-    "phonetique": "sa-crée",
-    "categorie": "adjectif",
-    "definition": "Excellent, très bien, de grande qualité",
-    "exemple": "Ce plat là est sacrée.",
-    "traduction_exemple": "Ce plat est excellent.",
-    "tags": ["compliment", "courant"],
+    "mot": "bourou",
+    "francais": "pain",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Pain (nourriture)",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "nourriture",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 22,
-    "mot": "ça gâte",
-    "francais": "ça se dégrade",
-    "phonetique": "sa-gat",
-    "categorie": "expression",
-    "definition": "La situation se dégrade, il y a un problème qui s'aggrave",
-    "exemple": "Attention, ça gâte là-bas.",
-    "traduction_exemple": "Attention, la situation se dégrade là-bas.",
-    "tags": ["expression", "courant"],
+    "mot": "broutage",
+    "francais": "arnaque internet",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Arnaque sur internet, escroquerie en ligne",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "internet",
+      "arnaque",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 23,
-    "mot": "on va gérer",
-    "francais": "on va s'en occuper",
-    "phonetique": "on-va-gé-rer",
-    "categorie": "expression",
-    "definition": "On va s'en occuper, on va trouver une solution, ne t'inquiète pas",
-    "exemple": "T'inquiète, on va gérer.",
-    "traduction_exemple": "Ne t'inquiète pas, on va trouver une solution.",
-    "tags": ["expression", "courant"],
+    "mot": "brouteur",
+    "francais": "arnaqueur internet",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Arnaqueur sur internet, cybercriminel spécialisé dans les escroqueries en ligne",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "internet",
+      "arnaque",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 24,
-    "mot": "tchin",
-    "francais": "piquant",
-    "phonetique": "tchin",
-    "categorie": "nom / verbe",
-    "definition": "Piment fort, piquer, brûler en bouche",
-    "exemple": "Ce jus de gingembre là tchin trop.",
-    "traduction_exemple": "Ce jus de gingembre est trop piquant.",
-    "tags": ["nourriture", "sensation"],
+    "mot": "cargo",
+    "francais": "fourgon de police",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Fourgon de police, panier à salade",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "police",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 25,
-    "mot": "on est ensemble",
-    "francais": "on est solidaires",
-    "phonetique": "on-è-en-sanble",
-    "categorie": "expression",
-    "definition": "Expression de solidarité, de soutien mutuel, d'accord entre personnes",
-    "exemple": "Merci frère, on est ensemble !",
-    "traduction_exemple": "Merci ami, on est solidaires !",
-    "tags": ["expression", "solidarité", "courant"],
+    "mot": "côcô",
+    "francais": "quémander",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Quémander, mendier, demander sans cesse",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 26,
-    "mot": "go",
-    "francais": "fille, petite amie",
-    "phonetique": "go",
+    "mot": "côcôta",
+    "francais": "coup sur la tête",
+    "phonetique": null,
     "categorie": "nom",
-    "definition": "Fille, petite amie, jeune femme (terme très courant)",
-    "exemple": "Sa go est trop belle.",
-    "traduction_exemple": "Sa petite amie est très belle.",
-    "tags": ["personnes", "relations", "courant"],
+    "definition": "Coup donné sur la tête",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "violence",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 27,
-    "mot": "yako",
-    "francais": "désolé, condoléances",
-    "phonetique": "ya-ko",
-    "categorie": "interjection",
-    "definition": "Désolé, condoléances, expression de compassion face à un malheur",
-    "exemple": "Yako ! J'ai appris la mauvaise nouvelle.",
-    "traduction_exemple": "Désolé ! J'ai appris la mauvaise nouvelle.",
-    "tags": ["interjection", "compassion", "courant"],
+    "mot": "cohan",
+    "francais": "comme ça",
+    "phonetique": null,
+    "categorie": "adverbe",
+    "definition": "Comme ça, ainsi, de cette manière",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 28,
-    "mot": "ndoss",
-    "francais": "ami, frère",
-    "phonetique": "ndoss",
-    "categorie": "nom",
-    "definition": "Ami, frère, pote (du verlan de \"dos\", dos à dos, solidarité)",
-    "exemple": "Mon ndoss m'a aidé quand j'avais rien.",
-    "traduction_exemple": "Mon ami m'a aidé quand je n'avais rien.",
-    "tags": ["personnes", "amitié", "courant"],
+    "mot": "daba",
+    "francais": "manger, frapper",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Manger ; ou frapper quelqu'un selon le contexte",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "nourriture",
+      "violence",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 29,
-    "mot": "capo",
-    "francais": "chef, patron, le meilleur",
-    "phonetique": "ca-po",
+    "mot": "dabali",
+    "francais": "nourriture, repas",
+    "phonetique": null,
     "categorie": "nom",
-    "definition": "Chef, patron, le meilleur dans son domaine. Aussi utilisé comme compliment.",
-    "exemple": "Le capo du quartier a réglé le problème.",
-    "traduction_exemple": "Le chef du quartier a réglé le problème.",
-    "tags": ["personnes", "hiérarchie", "courant"],
+    "definition": "Nourriture, repas ; ou action de frapper",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "nourriture",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 30,
-    "mot": "brouteur",
-    "francais": "arnaqueur internet",
-    "phonetique": "brou-teur",
-    "categorie": "nom",
-    "definition": "Arnaqueur sur internet, cybercriminel ivoirien spécialisé dans les escroqueries en ligne",
-    "exemple": "Fais attention à ce mo-là, c'est un brouteur.",
-    "traduction_exemple": "Fais attention à ce type-là, c'est un arnaqueur internet.",
-    "tags": ["internet", "arnaque", "culture"],
+    "mot": "dédja",
+    "francais": "ouvert, blessé",
+    "phonetique": null,
+    "categorie": "adjectif / verbe",
+    "definition": "Ouvert, ouvrir ; blessé, qui saigne",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 31,
-    "mot": "papayer",
-    "francais": "frapper, se battre",
-    "phonetique": "pa-pa-yé",
+    "mot": "dendjô",
+    "francais": "comprendre, déshabiller",
+    "phonetique": null,
     "categorie": "verbe",
-    "definition": "Frapper quelqu'un, se battre, donner des coups",
-    "exemple": "Il a papayé le voleur devant tout le monde.",
-    "traduction_exemple": "Il a frappé le voleur devant tout le monde.",
-    "tags": ["violence", "action", "courant"],
+    "definition": "Comprendre, piger ; ou déshabiller quelqu'un",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 32,
-    "mot": "teinté",
-    "francais": "ivre, sous l'influence",
-    "phonetique": "tein-té",
-    "categorie": "adjectif",
-    "definition": "Ivre, sous l'influence de l'alcool ou d'une autre substance",
-    "exemple": "Il est teinté depuis ce matin.",
-    "traduction_exemple": "Il est ivre depuis ce matin.",
-    "tags": ["état", "alcool", "familier"],
+    "mot": "dja",
+    "francais": "tuer",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Tuer, éliminer",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "violence",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 33,
-    "mot": "foutou",
-    "francais": "igname ou banane pilée",
-    "phonetique": "fou-tou",
-    "categorie": "nom",
-    "definition": "Plat ivoirien à base d'igname ou de banane plantain pilée, accompagné de sauce",
-    "exemple": "Rien de tel qu'un bon foutou soupe le dimanche.",
-    "traduction_exemple": "Rien de tel qu'un bon igname pilé en sauce le dimanche.",
-    "tags": ["nourriture", "culture", "courant"],
+    "mot": "djafoule",
+    "francais": "tout donner, impressionner",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Tout donner, impressionner, mettre le paquet",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 34,
-    "mot": "zégué",
-    "francais": "voyou, délinquant",
-    "phonetique": "zé-gué",
+    "mot": "djandjou",
+    "francais": "personne aux mœurs légères",
+    "phonetique": null,
     "categorie": "nom",
-    "definition": "Jeune voyou, délinquant de quartier, loubard",
-    "exemple": "Les zégué du coin font peur aux commerçants.",
-    "traduction_exemple": "Les voyous du coin font peur aux commerçants.",
-    "tags": ["personnes", "délinquance", "familier"],
+    "definition": "Personne aux mœurs légères, de mauvaise réputation",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "familier"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 35,
-    "mot": "wôh",
-    "francais": "hé !",
-    "phonetique": "wô",
-    "categorie": "interjection",
-    "definition": "Hé ! Interpellation pour appeler quelqu'un ou attirer l'attention",
-    "exemple": "Wôh ! Viens là s'il te plaît.",
-    "traduction_exemple": "Hé ! Viens ici s'il te plaît.",
-    "tags": ["interjection", "courant"],
+    "mot": "djanterman",
+    "francais": "homme stylé",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Homme stylé, bien habillé, classe",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "mode",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 36,
-    "mot": "babi",
-    "francais": "Abidjan",
-    "phonetique": "ba-bi",
-    "categorie": "nom propre",
-    "definition": "Surnom affectueux d'Abidjan, capitale économique de la Côte d'Ivoire",
-    "exemple": "Je suis né à Babi et j'en suis fier.",
-    "traduction_exemple": "Je suis né à Abidjan et j'en suis fier.",
-    "tags": ["géographie", "culture", "courant"],
+    "mot": "djantra",
+    "francais": "prostituée",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Prostituée",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "vulgaire"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 37,
-    "mot": "jakpa",
-    "francais": "amour, aimer",
-    "phonetique": "jak-pa",
-    "categorie": "nom / verbe",
-    "definition": "Amour, aimer. Peut s'utiliser comme nom (l'amour) ou verbe (aimer quelqu'un).",
-    "exemple": "J'ai trop de jakpa pour toi.",
-    "traduction_exemple": "J'ai beaucoup d'amour pour toi.",
-    "tags": ["amour", "relations", "courant"],
+    "mot": "djossi",
+    "francais": "travail, taf",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Travail, boulot, taf",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "travail",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 38,
-    "mot": "dogo",
-    "francais": "grand, chef",
-    "phonetique": "do-go",
-    "categorie": "nom / adjectif",
-    "definition": "Grand, chef, ancien. Terme de respect pour quelqu'un de plus âgé ou d'influent.",
-    "exemple": "Le dogo du quartier a parlé, tout le monde s'est calmé.",
-    "traduction_exemple": "Le grand du quartier a parlé, tout le monde s'est calmé.",
-    "tags": ["personnes", "respect", "hiérarchie"],
+    "mot": "dindin",
+    "francais": "regarder, surveiller",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Regarder, lorgner, surveiller, hésiter",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 39,
-    "mot": "gbass",
-    "francais": "fort, costaud",
-    "phonetique": "gbass",
-    "categorie": "adjectif",
-    "definition": "Fort, costaud, puissant, solide (physiquement ou au sens figuré)",
-    "exemple": "Ce mo-là est vraiment gbass.",
-    "traduction_exemple": "Ce gars-là est vraiment costaud.",
-    "tags": ["état", "physique", "courant"],
+    "mot": "djê",
+    "francais": "argent",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "L'argent, la monnaie",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "finance",
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   },
   {
     "id": 40,
-    "mot": "petit",
-    "francais": "cadet, jeune",
-    "phonetique": "pe-ti",
+    "mot": "dôhi",
+    "francais": "mensonge",
+    "phonetique": null,
     "categorie": "nom",
-    "definition": "Cadet, terme affectueux pour désigner quelqu'un de plus jeune ou un subalterne",
-    "exemple": "Viens ici petit, j'ai quelque chose pour toi.",
-    "traduction_exemple": "Viens ici mon jeune, j'ai quelque chose pour toi.",
-    "tags": ["personnes", "affection", "courant"],
+    "definition": "Mensonge, mensonger",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 41,
+    "mot": "enjailler",
+    "francais": "s'amuser, plaire",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "S'amuser, faire la fête, plaire à quelqu'un",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "fête",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 42,
+    "mot": "enjaillement",
+    "francais": "amusement, fête",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Amusement, fête, bonne ambiance",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "fête",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 43,
+    "mot": "fal",
+    "francais": "cigarette",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Cigarette",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 44,
+    "mot": "faler",
+    "francais": "fumer",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Fumer une cigarette",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 45,
+    "mot": "fangan",
+    "francais": "force",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Force, puissance, énergie",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 46,
+    "mot": "fongnon",
+    "francais": "se positionner pour se battre, frimer",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Se positionner pour se battre ; frimer, faire le fier",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "violence",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 47,
+    "mot": "fata",
+    "francais": "tomber, vendre",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Tomber ; ou vendre quelque chose",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 48,
+    "mot": "fatali",
+    "francais": "chute",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Chute, fait de tomber",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 49,
+    "mot": "faux-type",
+    "francais": "hypocrite, malhonnête",
+    "phonetique": null,
+    "categorie": "nom / adjectif",
+    "definition": "Personne hypocrite, malhonnête, qui fait semblant",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 50,
+    "mot": "fiengal",
+    "francais": "maigrichon",
+    "phonetique": null,
+    "categorie": "adjectif",
+    "definition": "Maigrichon, très maigre",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "corps",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 51,
+    "mot": "foul",
+    "francais": "plein, beaucoup",
+    "phonetique": null,
+    "categorie": "adjectif",
+    "definition": "Plein, beaucoup, en grande quantité",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 52,
+    "mot": "frapper ahoco",
+    "francais": "se masturber",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Se masturber (expression vulgaire)",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "vulgaire",
+      "adulte"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 53,
+    "mot": "fraya",
+    "francais": "fuir, s'échapper",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Fuir, s'échapper rapidement",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "mouvement",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 54,
+    "mot": "flôcô",
+    "francais": "mentir, mensonge",
+    "phonetique": null,
+    "categorie": "verbe / nom",
+    "definition": "Mentir ; mensonge, histoire inventée",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 55,
+    "mot": "fraichnie",
+    "francais": "petite amie, demoiselle",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Petite amie, jeune femme, demoiselle",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "relations",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 56,
+    "mot": "gaou",
+    "francais": "ignorant, pas branché",
+    "phonetique": null,
+    "categorie": "nom / adjectif",
+    "definition": "Personne ignorante, naïve, pas au courant des tendances",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 57,
+    "mot": "gawa",
+    "francais": "ringard",
+    "phonetique": null,
+    "categorie": "adjectif",
+    "definition": "Ringard, démodé, qui n'est pas dans la tendance",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 58,
+    "mot": "gbagboter",
+    "francais": "marcher longtemps",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Marcher beaucoup et sur une longue distance",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "mouvement",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 59,
+    "mot": "gbai",
+    "francais": "vérité, conseil, sermon",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Vérité ; conseil, sermon, discours de sagesse",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 60,
+    "mot": "gbahé",
+    "francais": "gronder, conseiller",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Gronder, conseiller, sermonner ; ou s'absenter",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 61,
+    "mot": "gbairè",
+    "francais": "commérage, ragot",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Commérage, ragot, médisance, dénigrement",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 62,
+    "mot": "gbêdê",
+    "francais": "faire l'amour (vulgaire)",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Avoir des rapports sexuels (terme vulgaire)",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "adulte",
+      "vulgaire"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 63,
+    "mot": "gbêss",
+    "francais": "500 FCFA",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "500 francs CFA",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "finance",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 64,
+    "mot": "gbô",
+    "francais": "manger, poing",
+    "phonetique": null,
+    "categorie": "verbe / nom",
+    "definition": "Manger ; ou poing, coup de poing",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "nourriture",
+      "violence",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 65,
+    "mot": "gbôlôzailli",
+    "francais": "gros, massif, musclé",
+    "phonetique": null,
+    "categorie": "adjectif",
+    "definition": "Gros, massif, musclé, imposant physiquement",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "corps",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 66,
+    "mot": "gbonhon",
+    "francais": "5 000 FCFA",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Cinq mille francs CFA (5 000 F)",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "finance",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 67,
+    "mot": "gbonhi",
+    "francais": "groupe, bande",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Groupe, bande, gang",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 68,
+    "mot": "glôglô",
+    "francais": "raccourci, bas quartier",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Couloirs, raccourci ; bas quartier populaire",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "géographie",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 69,
+    "mot": "gnanhi",
+    "francais": "femme cougar",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Femme plus âgée qui sort avec des jeunes hommes, femme cougar",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "relations",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 70,
+    "mot": "gnakoué",
+    "francais": "ignorant, couillon",
+    "phonetique": null,
+    "categorie": "nom / adjectif",
+    "definition": "Ignorant, couillon, imbécile",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 71,
+    "mot": "gnaga",
+    "francais": "bagarre",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Bagarre, combat, rixe",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "violence",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 72,
+    "mot": "gnata",
+    "francais": "très ignorant",
+    "phonetique": null,
+    "categorie": "adjectif",
+    "definition": "Très ignorant, extrêmement naïf",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 73,
+    "mot": "go",
+    "francais": "fille, petite amie",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Fille, jeune femme, petite amie (très courant)",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "relations",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 74,
+    "mot": "goumin",
+    "francais": "chagrin d'amour",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Chagrin d'amour, peine de cœur",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "amour",
+      "relations",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 75,
+    "mot": "groto",
+    "francais": "homme riche",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Homme riche, nanti, qui a de l'argent",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "finance",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 76,
+    "mot": "grouilleur",
+    "francais": "débrouillard",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Personne débrouillarde qui trouve toujours une solution",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 77,
+    "mot": "jahin",
+    "francais": "jamais",
+    "phonetique": null,
+    "categorie": "adverbe",
+    "definition": "Jamais, en aucun cas",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 78,
+    "mot": "ken",
+    "francais": "chose, deal, affaire",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Chose, plan, deal, affaire, truc",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 79,
+    "mot": "kener",
+    "francais": "planifier, vendre",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Planifier, dealer, vendre quelque chose",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "commerce",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 80,
+    "mot": "keneur",
+    "francais": "vendeur, dealeur",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Vendeur, dealeur, intermédiaire commercial",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "commerce",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 81,
+    "mot": "kpakpato",
+    "francais": "rapporteur, colporteur",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Rapporteur, colporteur de ragots, indiscret",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 82,
+    "mot": "kpakpatoya",
+    "francais": "commérage, colportage",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Commérage, colportage, action de rapporter",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 83,
+    "mot": "kourou bâtard",
+    "francais": "coup de poing violent",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Coup de poing très violent, uppercut",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "violence",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 84,
+    "mot": "lā",
+    "francais": "donner",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Donner, offrir quelque chose à quelqu'un",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 85,
+    "mot": "laler",
+    "francais": "gifler, frapper",
+    "phonetique": null,
+    "categorie": "verbe / nom",
+    "definition": "Gifler, frapper ; téléphone ou endroit selon le contexte",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "violence",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 86,
+    "mot": "maga",
+    "francais": "se battre, dérober",
+    "phonetique": null,
+    "categorie": "verbe / nom",
+    "definition": "Se battre, battre quelqu'un, dérober ; surprise (magatapé)",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "violence",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 87,
+    "mot": "môgô",
+    "francais": "personne, pote",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Personne, gens, homme, ami, pote",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 88,
+    "mot": "mono",
+    "francais": "policier, gendarme",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Policier, gendarme, agent des forces de l'ordre",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "police",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 89,
+    "mot": "moro",
+    "francais": "pièce de 5 FCFA",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Une pièce de 5 francs CFA",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "finance",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 90,
+    "mot": "mougou",
+    "francais": "faire l'amour",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Faire l'amour, avoir des rapports sexuels",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "relations",
+      "adulte"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 91,
+    "mot": "mougouli",
+    "francais": "rapport sexuel",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Rapport sexuel, acte sexuel",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "relations",
+      "adulte"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 92,
+    "mot": "mousso",
+    "francais": "femme",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Femme (du dioula : mousso)",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "dioula",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 93,
+    "mot": "kpetou",
+    "francais": "vulve, vagin",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Vulve, vagin (terme vulgaire)",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "corps",
+      "vulgaire",
+      "adulte"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 94,
+    "mot": "kpôclé",
+    "francais": "prostituée",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Fille de mauvaises mœurs, prostituée",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "vulgaire"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 95,
+    "mot": "pahé",
+    "francais": "parce que, car",
+    "phonetique": null,
+    "categorie": "conjonction",
+    "definition": "Parce que, car, vu que",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 96,
+    "mot": "painhou",
+    "francais": "prostituée",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Prostituée, travailleuse du sexe",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "vulgaire"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 97,
+    "mot": "pantougouler",
+    "francais": "fuir, s'échapper",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Fuir, s'échapper, détaler rapidement",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "mouvement",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 98,
+    "mot": "petit pompier",
+    "francais": "gigolo",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Gigolo, jeune homme entretenu par une femme plus âgée",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "relations"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 99,
+    "mot": "pinkou",
+    "francais": "faire l'amour",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Faire l'amour, avoir des rapports sexuels",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "relations",
+      "adulte"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 100,
+    "mot": "plomb",
+    "francais": "100 FCFA",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Cent (100) francs CFA",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "finance",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 101,
+    "mot": "propro",
+    "francais": "produit éclaircissant, poursuivre",
+    "phonetique": null,
+    "categorie": "nom / verbe",
+    "definition": "Produit cosmétique éclaircissant ; ou poursuivre quelqu'un",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 102,
+    "mot": "sêkpêl",
+    "francais": "maigrichon, poids plume",
+    "phonetique": null,
+    "categorie": "nom / adjectif",
+    "definition": "Personne très maigre, poids plume",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "corps",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 103,
+    "mot": "skinny",
+    "francais": "belle femme mince",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Belle jeune femme mince et élancée",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "corps",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 104,
+    "mot": "soutra",
+    "francais": "aider, sauver",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Aider, sauver, sortir quelqu'un d'une mauvaise passe",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 105,
+    "mot": "soayé",
+    "francais": "méchant, mauvais",
+    "phonetique": null,
+    "categorie": "adjectif",
+    "definition": "Méchant, mauvais, dangereux",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 106,
+    "mot": "sri",
+    "francais": "attraper",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Attraper, saisir, appréhender",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 107,
+    "mot": "tassaba",
+    "francais": "grosses fesses",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Grosses fesses, gros postérieur",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "corps",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 108,
+    "mot": "tchiza",
+    "francais": "maîtresse d'un homme marié",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Maîtresse d'un homme marié, amante clandestine (tchizambengué : maîtresse de haut standing)",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "relations"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 109,
+    "mot": "tchizo",
+    "francais": "homme marié infidèle",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Homme marié qui a une ou plusieurs maîtresses",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "relations"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 110,
+    "mot": "togo",
+    "francais": "100 ou 100 000 FCFA",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "100 francs CFA ; ou 100 000 francs CFA selon le contexte",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "finance",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 111,
+    "mot": "tolo",
+    "francais": "gifler",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Gifler, donner une gifle",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "violence",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 112,
+    "mot": "wéh",
+    "francais": "chose, truc, deal",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Chose, truc, plan, deal, affaire",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 113,
+    "mot": "wéman",
+    "francais": "dealeur",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Dealeur, vendeur, intermédiaire",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "personnes",
+      "commerce",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 114,
+    "mot": "woro-woro",
+    "francais": "taxi collectif",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Taxi collectif, taxi communal partagé",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "transport",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 115,
+    "mot": "yafor",
+    "francais": "d'accord",
+    "phonetique": null,
+    "categorie": "interjection",
+    "definition": "D'accord, oui, entendu, c'est bon",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 116,
+    "mot": "yé",
+    "francais": "je",
+    "phonetique": null,
+    "categorie": "pronom",
+    "definition": "Je (pronom personnel sujet en nouchi)",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 117,
+    "mot": "zogotape",
+    "francais": "assommer",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Assommer quelqu'un, le frapper jusqu'à l'étourdir",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "violence",
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 118,
+    "mot": "zébri manyé",
+    "francais": "viol",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Viol, agression sexuelle",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "violence",
+      "adulte"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 119,
+    "mot": "zo",
+    "francais": "beau",
+    "phonetique": null,
+    "categorie": "adjectif",
+    "definition": "Beau, joli (neutre, masculin ou féminin)",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 120,
+    "mot": "zota",
+    "francais": "belle",
+    "phonetique": null,
+    "categorie": "adjectif",
+    "definition": "Belle, jolie (féminin)",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 121,
+    "mot": "zogor",
+    "francais": "ennuyeux",
+    "phonetique": null,
+    "categorie": "adjectif / nom",
+    "definition": "Une chose, personne ou idée ennuyeuse, barbante",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 122,
+    "mot": "Attacher quelqu'un",
+    "francais": "Braiser quelqu'un",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Braiser quelqu'un",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 123,
+    "mot": "Atalaku",
+    "francais": "lancer quelqu'un",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "lancer quelqu'un",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 124,
+    "mot": "A la rédjohu",
+    "francais": "On se pince, a plus",
+    "phonetique": null,
+    "categorie": "adjectif",
+    "definition": "On se pince, a plus",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 125,
+    "mot": "Biêlôgô",
+    "francais": "Au pinhou, Au Tchoin",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Au pinhou, Au Tchoin",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 126,
+    "mot": "C‘est dass",
+    "francais": "c'est mort",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "c'est mort",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 127,
+    "mot": "Choclair gbè en direct",
+    "francais": "Gbè dans les yeux san a yohi",
+    "phonetique": null,
+    "categorie": "adjectif",
+    "definition": "Gbè dans les yeux san a yohi",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 128,
+    "mot": "C'est pas waya",
+    "francais": "c'est pas affaire",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "c'est pas affaire",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 129,
+    "mot": "Dêmin-dêmin",
+    "francais": "Grouiller, grigra, se chercher",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Grouiller, grigra, se chercher",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 130,
+    "mot": "Desiencé le mogo",
+    "francais": "Degba le mogo",
+    "phonetique": null,
+    "categorie": "adjectif",
+    "definition": "Degba le mogo",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 131,
+    "mot": "Developper un Kota",
+    "francais": "Gerer une petite",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Gerer une petite",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 132,
+    "mot": "En tas",
+    "francais": "être waha",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "être waha",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 133,
+    "mot": "Etre piqué",
+    "francais": "Etre tchass, être sexy",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Etre tchass, être sexy",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 134,
+    "mot": "Etre pennant",
+    "francais": "être galère",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "être galère",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 135,
+    "mot": "En Gblazou",
+    "francais": "Se saper",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Se saper",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 136,
+    "mot": "Etre Popodipo",
+    "francais": "être Callé, être Po, être kramgba",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "être Callé, être Po, être kramgba",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 137,
+    "mot": "Faroter",
+    "francais": "se blôfer, se laka",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "se blôfer, se laka",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 138,
+    "mot": "Faut te mouu",
+    "francais": "Prendre ses calmants",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Prendre ses calmants",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 139,
+    "mot": "Fouladjassant",
+    "francais": "Gbé de monde",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Gbé de monde",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 140,
+    "mot": "Gnahan, Brise toi des toufa-fraya des pkèpkèro",
+    "francais": "Damé su toufali de nos yimbèrè",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Damé su toufali de nos yimbèrè",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 141,
+    "mot": "Homologer",
+    "francais": "zê, tirer le godé",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "zê, tirer le godé",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 142,
+    "mot": "inconnu",
+    "francais": "la paire de chaussures",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "la paire de chaussures",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 143,
+    "mot": "Ivoirification",
+    "francais": "coloniation des ivoirens, ivoirete",
+    "phonetique": null,
+    "categorie": "adjectif",
+    "definition": "coloniation des ivoirens, ivoirete",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 144,
+    "mot": "Jaba",
+    "francais": "Je m'en jaba de toi",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Je m'en jaba de toi",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 145,
+    "mot": "je ne suis pas un garçon facile hein bébé",
+    "francais": "a sans trop rentrer dans mes 16 métres",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "a sans trop rentrer dans mes 16 métres",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 146,
+    "mot": "je suis leou",
+    "francais": "être ivre",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "être ivre",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 147,
+    "mot": "je suis paf",
+    "francais": "je suis la",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "je suis la",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 148,
+    "mot": "Kpayaï",
+    "francais": "prendre sa balle, coup tete...",
+    "phonetique": null,
+    "categorie": "adjectif",
+    "definition": "prendre sa balle, coup tete...",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 149,
+    "mot": "Kuibazo",
+    "francais": "Tassaba, le Kra, le moutou",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Tassaba, le Kra, le moutou",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 150,
+    "mot": "La Zopko",
+    "francais": "La Dalle, la craze",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "La Dalle, la craze",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 151,
+    "mot": "Le djabaro",
+    "francais": "le calba",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "le calba",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 152,
+    "mot": "Les bras long du pays",
+    "francais": "Les durs gars du pays",
+    "phonetique": null,
+    "categorie": "adjectif",
+    "definition": "Les durs gars du pays",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 153,
+    "mot": "Les kpokpaf",
+    "francais": "les gbala gnato",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "les gbala gnato",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 154,
+    "mot": "Les kpako",
+    "francais": "les vroumanou!!",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "les vroumanou!!",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 155,
+    "mot": "Le maitri tchè",
+    "francais": "Le commando intello",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Le commando intello",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 156,
+    "mot": "Le vadrègbè",
+    "francais": "le cops ; le kpètou",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "le cops ; le kpètou",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 157,
+    "mot": "Mouk d'un gomi",
+    "francais": "Fan d'une go",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Fan d'une go",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 158,
+    "mot": "Met soua",
+    "francais": "Cè woho / verser sur moi / lui",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Cè woho / verser sur moi / lui",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 159,
+    "mot": "Magadjatoire des gopios",
+    "francais": "Maga Djali des pkêpkêros",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Maga Djali des pkêpkêros",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 160,
+    "mot": "Mettre dans sa gorge",
+    "francais": "Mettre sur petit velo",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Mettre sur petit velo",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 161,
+    "mot": "Môgô sans plan",
+    "francais": "gaou ou gnata",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "gaou ou gnata",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 162,
+    "mot": "Ne pas etre en drap",
+    "francais": "Ne pas avoir les sons",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Ne pas avoir les sons",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 163,
+    "mot": "NANOUIN",
+    "francais": "Casser le kpêtou; mettre l'eau; couiller ...",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Casser le kpêtou; mettre l'eau; couiller ...",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 164,
+    "mot": "nouf",
+    "francais": "fumeur de weed",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "fumeur de weed",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 165,
+    "mot": "On est krangba",
+    "francais": "on est au kohi, on est callé",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "on est au kohi, on est callé",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 166,
+    "mot": "On se panpan",
+    "francais": "On se couman",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "On se couman",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 167,
+    "mot": "oukkitiss",
+    "francais": "se mêler de tout",
+    "phonetique": null,
+    "categorie": "adjectif",
+    "definition": "se mêler de tout",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 168,
+    "mot": "Prendre fouhun",
+    "francais": "se casser, beou",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "se casser, beou",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 169,
+    "mot": "Prendre le onze barré",
+    "francais": "Les 100 pas",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Les 100 pas",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 170,
+    "mot": "Que jah bless notre barra",
+    "francais": "Que koro Dja bless notre grigrali",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Que koro Dja bless notre grigrali",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 171,
+    "mot": "Quinzannie (quinze ans)",
+    "francais": "une fillette",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "une fillette",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 172,
+    "mot": "quiproco",
+    "francais": "c'est drap, ça ment",
+    "phonetique": null,
+    "categorie": "adjectif",
+    "definition": "c'est drap, ça ment",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 173,
+    "mot": "Quitte la route !",
+    "francais": "Ecarte toi de là.",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Ecarte toi de là.",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 174,
+    "mot": "qui connait papa de chien ?",
+    "francais": "je ne sais pas d'ou ça vient",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "je ne sais pas d'ou ça vient",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 175,
+    "mot": "Quitte dans ca, ca sent pipi",
+    "francais": "Sors dans ca!",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Sors dans ca!",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 176,
+    "mot": "QUAND ON PARLE DU LOUP ON VOIT SES DENTS POURRIES.",
+    "francais": "QUAND ON PARLE DE QUELQU'UN, LA PERSONNE APPARAIT COMME PAR ",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "QUAND ON PARLE DE QUELQU'UN, LA PERSONNE APPARAIT COMME PAR ENCHANTEMENT.",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 177,
+    "mot": "qui connaît pied gauche de poulet dans sauce claire",
+    "francais": "qui connaît papa de chien",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "qui connaît papa de chien",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 178,
+    "mot": "quel coup?",
+    "francais": "quoi de neuf?",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "quoi de neuf?",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 179,
+    "mot": "RENTRER HOZOUA",
+    "francais": "mougou ça même.",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "mougou ça même.",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 180,
+    "mot": "Sika lélo",
+    "francais": "djai ou djê, djêkanou, lahen",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "djai ou djê, djêkanou, lahen",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 181,
+    "mot": "Sassa môgôni qui somo",
+    "francais": "Zié le mogo ki djah la bas",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Zié le mogo ki djah la bas",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 182,
+    "mot": "Se frifri",
+    "francais": "Se faire beau ou belle",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Se faire beau ou belle",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 183,
+    "mot": "Se gnépé",
+    "francais": "Se pouhé",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Se pouhé",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 184,
+    "mot": "Se poca",
+    "francais": "Se po, Se Kalé",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Se po, Se Kalé",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 185,
+    "mot": "Se tika",
+    "francais": "Se zango, Se zou",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Se zango, Se zou",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 186,
+    "mot": "Se mettre pouher",
+    "francais": "Se mettre léou",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Se mettre léou",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 187,
+    "mot": "Ton Gassama a sonné",
+    "francais": "ton douhaou a sonné, c'est le jour de ton lock",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "ton douhaou a sonné, c'est le jour de ton lock",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 188,
+    "mot": "un ropero",
+    "francais": "un akoto",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "un akoto",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 189,
+    "mot": "Un chiement",
+    "francais": "Un kassa",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Un kassa",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 190,
+    "mot": "Un rengbasse",
+    "francais": "Un sôtôclôh",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "Un sôtôclôh",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 191,
+    "mot": "Un gué just",
+    "francais": "Gué gnairin, On a qu'a se laisser",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Gué gnairin, On a qu'a se laisser",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 192,
+    "mot": "Versé waah dans le dougou",
+    "francais": "Gbé dans le dougou",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Gbé dans le dougou",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 193,
+    "mot": "Vadi",
+    "francais": "Prendre dèbè",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "Prendre dèbè",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 194,
+    "mot": "vièbas",
+    "francais": "sortir une fille",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "sortir une fille",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 195,
+    "mot": "varanté",
+    "francais": "avoir faim",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "avoir faim",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 196,
+    "mot": "Wizkider",
+    "francais": "doubler, mettre dans les valvals",
+    "phonetique": null,
+    "categorie": "verbe",
+    "definition": "doubler, mettre dans les valvals",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 197,
+    "mot": "whonshe",
+    "francais": "bandit de grands chemins",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "bandit de grands chemins",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 198,
+    "mot": "xena par derriere",
+    "francais": "un kpokporo",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "un kpokporo",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 199,
+    "mot": "yè té kouman dé kèkèchoz",
+    "francais": "yè té donner un son",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "yè té donner un son",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 200,
+    "mot": "Yé sui en drap",
+    "francais": "j'ai eu le son",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "j'ai eu le son",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 201,
+    "mot": "Yé moyin me dja pour...",
+    "francais": "yé sui mal prè pour / troo prèt mem",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "yé sui mal prè pour / troo prèt mem",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 202,
+    "mot": "Y'a drap !",
+    "francais": "ça ment, c'est soua",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "ça ment, c'est soua",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 203,
+    "mot": "Ya pas rien",
+    "francais": "ya pas l'homme",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "ya pas l'homme",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 204,
+    "mot": "Zouker dans le jeton de quelqu’un",
+    "francais": "Bouffer, vaper, daba ou badou le jeton de quelqu’un",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Bouffer, vaper, daba ou badou le jeton de quelqu’un",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 205,
+    "mot": "Zinzin d'enjaillement",
+    "francais": "Etre mal fan",
+    "phonetique": null,
+    "categorie": "expression",
+    "definition": "Etre mal fan",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
+    "contributeur": "équipe Dico Nouchi"
+  },
+  {
+    "id": 206,
+    "mot": "zablaha",
+    "francais": "se foutre de la gueule de quelqu'un",
+    "phonetique": null,
+    "categorie": "nom",
+    "definition": "se foutre de la gueule de quelqu'un",
+    "exemple": null,
+    "traduction_exemple": null,
+    "tags": [
+      "courant"
+    ],
     "contributeur": "équipe Dico Nouchi"
   }
 ]
