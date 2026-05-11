@@ -7,7 +7,7 @@ module.exports = async function handler(req, res) {
   try {
     const sql = neon(process.env.DATABASE_URL);
     const mots = await sql`
-      SELECT id, mot, phonetique, categorie, definition, exemple, traduction_exemple, tags, contributeur
+      SELECT id, mot, francais, phonetique, categorie, definition, exemple, traduction_exemple, tags, contributeur
       FROM mots
       WHERE statut = 'publié'
       ORDER BY mot ASC

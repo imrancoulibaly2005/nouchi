@@ -35,7 +35,7 @@
 
       <div class="search-box">
         <span class="search-icon">🔍</span>
-        <input type="text" id="searchInput" placeholder="Cherche un mot nouchi ou sa traduction..." autocomplete="off" />
+        <input type="text" id="searchInput" placeholder="Nouchi ou français — ex: gahon, argent, partir..." autocomplete="off" />
         <button id="clearBtn" class="clear-btn" aria-label="Effacer">✕</button>
       </div>
 
@@ -86,13 +86,17 @@
             <label for="fMot">Mot nouchi *</label>
             <input type="text" id="fMot" name="mot" placeholder="Ex: gahon" required />
           </div>
-          <div class="form-group">
-            <label for="fPhonetique">Prononciation</label>
-            <input type="text" id="fPhonetique" name="phonetique" placeholder="Ex: ga-on" />
+          <div class="form-group form-group--required">
+            <label for="fFrancais">Mot en français *</label>
+            <input type="text" id="fFrancais" name="francais" placeholder="Ex: argent" required />
           </div>
         </div>
 
         <div class="form-row">
+          <div class="form-group">
+            <label for="fPhonetique">Prononciation</label>
+            <input type="text" id="fPhonetique" name="phonetique" placeholder="Ex: ga-on" />
+          </div>
           <div class="form-group">
             <label for="fCategorie">Catégorie</label>
             <select id="fCategorie" name="categorie">
@@ -104,6 +108,9 @@
               <option value="nom / verbe">Nom / Verbe</option>
             </select>
           </div>
+        </div>
+
+        <div class="form-row">
           <div class="form-group">
             <label for="fTags">Tags <span class="hint">(séparés par des virgules)</span></label>
             <input type="text" id="fTags" name="tags" placeholder="Ex: courant, finance" />

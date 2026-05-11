@@ -8,7 +8,7 @@ module.exports = async function handler(req, res) {
   if (req.method === 'OPTIONS') return res.status(200).end();
   if (req.method !== 'POST') return res.status(405).json({ error: 'Method not allowed' });
 
-  const { mot, phonetique, categorie, definition, exemple, traduction_exemple, tags, contributeur } = req.body || {};
+  const { mot, francais, phonetique, categorie, definition, exemple, traduction_exemple, tags, contributeur } = req.body || {};
 
   if (!mot || !mot.trim()) return res.status(400).json({ error: 'Le mot est obligatoire.' });
   if (!definition || !definition.trim()) return res.status(400).json({ error: 'La définition est obligatoire.' });
@@ -18,9 +18,10 @@ module.exports = async function handler(req, res) {
     const tagsArray = tags ? tags.split(',').map(t => t.trim()).filter(Boolean) : [];
 
     await sql`
-      INSERT INTO mots (mot, phonetique, categorie, definition, exemple, traduction_exemple, tags, contributeur, statut)
+      INSERT INTO mots (mot, francais, phonetique, categorie, definition, exemple, traduction_exemple, tags, contributeur, statut)
       VALUES (
         ${mot.trim().toLowerCase()},
+        ${francais?.trim() || null},
         ${phonetique?.trim() || null},
         ${categorie || 'nom'},
         ${definition.trim()},

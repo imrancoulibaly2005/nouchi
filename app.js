@@ -61,6 +61,7 @@ function applyFilters() {
     const matchCat = activeCat === 'all' || (w.tags && w.tags.includes(activeCat));
     const matchSearch = !q ||
       w.mot.toLowerCase().includes(q) ||
+      (w.francais && w.francais.toLowerCase().includes(q)) ||
       w.definition.toLowerCase().includes(q) ||
       (w.exemple && w.exemple.toLowerCase().includes(q)) ||
       (w.tags && w.tags.some(t => t.toLowerCase().includes(q)));
@@ -81,7 +82,10 @@ function renderWords() {
   noResult.classList.add('hidden');
   grid.innerHTML = filtered.map(w => `
     <article class="word-card" data-id="${w.id}" tabindex="0" role="button" aria-label="Voir le mot ${w.mot}">
-      <div class="card-word">${highlight(w.mot, searchQuery)}</div>
+      <div class="card-top">
+        <div class="card-word">${highlight(w.mot, searchQuery)}</div>
+        ${w.francais ? `<div class="card-fr">🇫🇷 ${highlight(w.francais, searchQuery)}</div>` : ''}
+      </div>
       ${w.phonetique ? `<div class="card-phonetic">/${w.phonetique}/</div>` : ''}
       <div class="card-cat">${w.categorie}</div>
       <div class="card-def">${highlight(w.definition, searchQuery)}</div>
@@ -119,6 +123,7 @@ function openModal(id) {
   const content = document.getElementById('modalContent');
   content.innerHTML = `
     <div class="modal-word">${w.mot}</div>
+    ${w.francais ? `<div class="modal-fr">🇫🇷 <strong>${w.francais}</strong></div>` : ''}
     ${w.phonetique ? `<div class="modal-phonetic">/${w.phonetique}/</div>` : ''}
     <div class="modal-cat">${w.categorie}</div>
     <div class="modal-section">

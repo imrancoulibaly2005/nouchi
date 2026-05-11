@@ -243,12 +243,27 @@ a { color: inherit; text-decoration: none; }
 }
 .word-card:hover::before { opacity: 1; }
 
+.card-top {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 2px;
+}
 .card-word {
   font-size: 1.5rem;
   font-weight: 800;
   color: var(--orange);
   letter-spacing: -.5px;
-  margin-bottom: 2px;
+}
+.card-fr {
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--green);
+  background: var(--green-bg);
+  padding: 2px 8px;
+  border-radius: 50px;
+  white-space: nowrap;
 }
 .card-phonetic {
   font-size: 0.8rem;
@@ -340,6 +355,12 @@ a { color: inherit; text-decoration: none; }
 }
 .modal-close:hover { background: var(--gray-200); }
 .modal-word { font-size: 2rem; font-weight: 800; color: var(--orange); margin-bottom: 4px; }
+.modal-fr {
+  font-size: 1rem;
+  color: var(--green);
+  font-weight: 600;
+  margin-bottom: 4px;
+}
 .modal-phonetic { font-style: italic; color: var(--gray-400); font-size: 0.9rem; margin-bottom: 8px; }
 .modal-cat {
   display: inline-block;
