@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dico Nouchi — Dictionnaire Nouchi-Français</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="logo">
+        <span class="logo-icon">🇨🇮</span>
+        <div>
+          <h1>Dico Nouchi</h1>
+          <p class="tagline">Le dictionnaire participatif du nouchi</p>
+        </div>
+      </div>
+      <a href="https://github.com/imrancoulibaly2005/nouchi/issues/new?template=nouveau-mot.md"
+         target="_blank" class="btn btn-primary">
+        + Proposer un mot
+      </a>
+    </div>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <h2>Le nouchi, c'est notre langue</h2>
+      <p>Retrouve les mots du quotidien d'Abidjan, leur sens et des exemples. <br/>
+         Tu connais un mot qui manque ? Contribue !</p>
+
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="searchInput" placeholder="Cherche un mot nouchi ou sa traduction..." autocomplete="off" />
+        <button id="clearBtn" class="clear-btn" aria-label="Effacer">✕</button>
+      </div>
+
+      <div class="stats" id="statsBar">
+        Chargement...
+      </div>
+    </div>
+  </section>
+
+  <!-- FILTRES ALPHABETIQUES -->
+  <section class="filters-section">
+    <div class="container">
+      <div class="alpha-filter" id="alphaFilter"></div>
+    </div>
+  </section>
+
+  <!-- CATEGORIE FILTER -->
+  <section class="cat-section">
+    <div class="container">
+      <div class="cat-filter" id="catFilter"></div>
+    </div>
+  </section>
+
+  <!-- RESULTATS -->
+  <main class="container main-content">
+    <div id="noResult" class="no-result hidden">
+      <span class="big-icon">🤔</span>
+      <p>Aucun mot trouvé pour ta recherche.</p>
+      <a href="https://github.com/imrancoulibaly2005/nouchi/issues/new?template=nouveau-mot.md"
+         target="_blank" class="btn btn-secondary">
+        Proposer ce mot
+      </a>
+    </div>
+    <div class="word-grid" id="wordGrid"></div>
+  </main>
+
+  <!-- CONTRIBUER -->
+  <section class="contribute-section">
+    <div class="container contribute-inner">
+      <div class="contribute-text">
+        <h2>Contribue au dictionnaire !</h2>
+        <p>Le Dico Nouchi est un projet communautaire. Tout le monde peut ajouter un mot, corriger une définition ou proposer un meilleur exemple. C'est simple et gratuit.</p>
+        <ul class="contrib-steps">
+          <li><span class="step-num">1</span> Clique sur <strong>"Proposer un mot"</strong></li>
+          <li><span class="step-num">2</span> Remplis le formulaire sur GitHub</li>
+          <li><span class="step-num">3</span> Ton mot sera ajouté après validation</li>
+        </ul>
+      </div>
+      <div class="contribute-actions">
+        <a href="https://github.com/imrancoulibaly2005/nouchi/issues/new?template=nouveau-mot.md"
+           target="_blank" class="btn btn-primary btn-lg">
+          ✏️ Proposer un nouveau mot
+        </a>
+        <a href="https://github.com/imrancoulibaly2005/nouchi/issues/new?template=correction.md"
+           target="_blank" class="btn btn-outline btn-lg">
+          🛠️ Signaler une erreur
+        </a>
+        <a href="https://github.com/imrancoulibaly2005/nouchi"
+           target="_blank" class="btn btn-outline btn-lg">
+          ⭐ Voir sur GitHub
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>Dico Nouchi — Dictionnaire participatif du nouchi ivoirien</p>
+      <p>
+        <a href="https://github.com/imrancoulibaly2005/nouchi" target="_blank">GitHub</a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/imrancoulibaly2005/nouchi/blob/main/CONTRIBUTING.md" target="_blank">Comment contribuer</a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/imrancoulibaly2005/nouchi/issues" target="_blank">Signaler un problème</a>
+      </p>
+    </div>
+  </footer>
+
+  <!-- MODALE DETAIL MOT -->
+  <div class="modal-overlay hidden" id="modalOverlay">
+    <div class="modal-card" id="modalCard">
+      <button class="modal-close" id="modalClose">✕</button>
+      <div id="modalContent"></div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
