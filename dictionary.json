@@ -62,12 +62,12 @@
   {
     "id": 6,
     "mot": "clando",
-    "francais": "taxi clandestin",
+    "francais": "taxi clandestin, sortir en douce",
     "phonetique": "clan-do",
-    "categorie": "nom",
-    "definition": "Taxi clandestin, moto-taxi non officiel",
-    "exemple": "Prends le clando, c'est moins cher.",
-    "traduction_exemple": "Prends le taxi clandestin, c'est moins cher.",
+    "categorie": "nom / verbe",
+    "definition": "Taxi clandestin, moto-taxi non officiel. Faire le clando : sortir en douce, s'éclipser discrètement sans que personne ne le remarque.",
+    "exemple": "Prends le clando, c'est moins cher. / Il a fait le clando avant la fin de la fête.",
+    "traduction_exemple": "Prends le taxi clandestin, c'est moins cher. / Il est sorti en douce avant la fin de la fête.",
     "tags": ["transport", "courant"],
     "contributeur": "équipe Dico Nouchi"
   },
